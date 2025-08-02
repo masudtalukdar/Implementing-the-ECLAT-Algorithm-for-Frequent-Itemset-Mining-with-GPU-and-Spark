@@ -136,4 +136,3 @@ This project was developed as part of a AI and Cloud course assignment, specific
 ---
 
 **Note**: This implementation is primarily designed for educational and research purposes. For production use, consider additional optimizations and error handling.
-```
