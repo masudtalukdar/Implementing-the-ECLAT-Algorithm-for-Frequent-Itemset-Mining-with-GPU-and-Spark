@@ -1,5 +1,5 @@
 ```markdown
-##Frequent Itemset Mining with ECLAT Algorithm
+### Frequent Itemset Mining with ECLAT Algorithm
 
 A comprehensive implementation and performance comparison of the ECLAT (Equivalence Class Clustering and bottom-up Lattice Traversal) algorithm using different computational approaches: GPU-accelerated (CuPy) and distributed processing (Apache Spark).
 
