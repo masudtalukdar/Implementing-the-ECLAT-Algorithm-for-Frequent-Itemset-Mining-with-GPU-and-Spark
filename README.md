@@ -7,9 +7,9 @@ A comprehensive implementation and performance comparison of the ECLAT (Equivale
 
 This project implements three variants of the ECLAT algorithm to analyze their performance characteristics across different data scales and computational paradigms:
 
-- **GPU-Optimized ECLAT**: Memory-efficient implementation using CuPy with CUDA acceleration
-- **GPU-Simple ECLAT**: Streamlined GPU implementation focusing on 1-itemsets and 2-itemsets
-- **Spark Distributed ECLAT**: Distributed processing implementation using Apache Spark RDDs
+- GPU-Optimized ECLAT: Memory-efficient implementation using CuPy with CUDA acceleration
+- GPU-Simple ECLAT: Streamlined GPU implementation focusing on 1-itemsets and 2-itemsets
+- Spark Distributed ECLAT: Distributed processing implementation using Apache Spark RDDs
 
 📊 Key Results
 
