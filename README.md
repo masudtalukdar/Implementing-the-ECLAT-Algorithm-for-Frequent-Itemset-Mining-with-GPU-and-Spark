@@ -21,18 +21,18 @@ This project implements three variants of the ECLAT algorithm to analyze their p
 
 🚀 Features
 
-- **Three ECLAT Implementations**: Comprehensive comparison across different computational approaches
-- **Performance Benchmarking**: Runtime and memory usage analysis across multiple data scales
-- **Scalability Testing**: Evaluation on 20%, 50%, and 100% of dataset (10K, 25K, 50K transactions)
-- **Visualization**: Automated generation of performance comparison charts
-- **Real Dataset**: Uses retail transaction data from FIMI repository
+- Three ECLAT Implementations: Comprehensive comparison across different computational approaches
+- Performance Benchmarking: Runtime and memory usage analysis across multiple data scales
+- Scalability Testing: Evaluation on 20%, 50%, and 100% of the dataset (10K, 25K, 50K transactions)
+- Visualization: Automated generation of performance comparison charts
+- Real Dataset: Uses retail transaction data from the FIMI repository
 
 ## 📋 Requirements
 
 ### Environment
-- **Platform**: Google Colab (recommended) or local environment with GPU support
-- **Python**: 3.11+
-- **GPU**: CUDA-capable GPU (Tesla T4 used in testing)
+- Platform: Google Colab (recommended) or local environment with GPU support
+- Python: 3.11+
+- GPU: CUDA-capable GPU (Tesla T4 used in testing)
 
 ### Dependencies
 ```bash
