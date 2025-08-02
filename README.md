@@ -128,7 +128,7 @@ This project was developed as part of a AI and Cloud course assignment, specific
 
 ## 🙏 Acknowledgments
 
-- **Prof. Damiano Carra, University of Verona **: For suggesting ECLAT algorithm over Apriori for better parallel processing capabilities
+- **Prof. Damiano Carra, University of Verona ** [Prof. Damiano Carra, University of Verona](https://www.di.univr.it/?ent=persona&id=6412): For suggesting ECLAT algorithm over Apriori for better parallel processing capabilities
 - **FIMI Repository**: For providing the retail dataset for evaluation
 - **Google Colab**: For providing free GPU resources for experimentation
 - **Open Source Libraries**: CuPy, Apache Spark, and other dependencies
