@@ -6,9 +6,9 @@ A comprehensive implementation and performance comparison of the ECLAT (Equivale
 
 This project implements three variants of the ECLAT algorithm to analyze their performance characteristics across different data scales and computational paradigms:
 
-- GPU-Optimized ECLAT: Memory-efficient implementation using CuPy with CUDA acceleration
-- GPU-Simple ECLAT: Streamlined GPU implementation focusing on 1-itemsets and 2-itemsets
-- Spark Distributed ECLAT: Distributed processing implementation using Apache Spark RDDs
+- GPU-Optimized ECLAT: Memory-efficient implementation using CuPy with CUDA acceleration.
+- GPU-Simple ECLAT: Streamlined GPU implementation focusing on 1-itemsets and 2-itemsets.
+- Spark Distributed ECLAT: Distributed processing implementation using Apache Spark RDDs.
 
 📊 Key Results
 
@@ -20,18 +20,18 @@ This project implements three variants of the ECLAT algorithm to analyze their p
 
 🚀 Features
 
-- Three ECLAT Implementations: Comprehensive comparison across different computational approaches
-- Performance Benchmarking: Runtime and memory usage analysis across multiple data scales
-- Scalability Testing: Evaluation on 20%, 50%, and 100% of the dataset (10K, 25K, 50K transactions)
-- Visualization: Automated generation of performance comparison charts
-- Real Dataset: Uses retail transaction data from the FIMI repository
+- Three ECLAT Implementations: Comprehensive comparison across different computational approaches.
+- Performance Benchmarking: Runtime and memory usage analysis across multiple data scales.
+- Scalability Testing: Evaluation on 20%, 50%, and 100% of the dataset (10K, 25K, 50K transactions).
+- Visualization: Automated generation of performance comparison charts.
+- Real Dataset: Uses retail transaction data from the FIMI repository.
 
 ## 📋 Requirements
 
 ### Environment
-- Platform: Google Colab (recommended) or local environment with GPU support
+- Platform: Google Colab (recommended) or local environment with GPU support.
 - Python: 3.11+
-- GPU: CUDA-capable GPU (Tesla T4 used in testing)
+- GPU: CUDA-capable GPU (Tesla T4 used in testing).
 
 ### Dependencies
 ```bash
